@@ -12,4 +12,4 @@ cd baselinks-academy
 npm install
 npm run dev
 
-this is a live url also
+this is a live url also available https://baselink-test.vercel.app/
